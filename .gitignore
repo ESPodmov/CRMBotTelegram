@@ -4,3 +4,4 @@ response.json
 encryption/
 __pycache__/
 .idea/
+config.py

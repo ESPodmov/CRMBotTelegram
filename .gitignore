@@ -1,0 +1,6 @@
+req.py
+venv/
+response.json
+encryption/
+__pycache__/
+.idea/

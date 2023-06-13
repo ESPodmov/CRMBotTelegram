@@ -1,0 +1,32 @@
+{
+  "account_id": "e4ee4552-441e-41d2-a702-f59437625d42",
+  "time": 1674810656,
+  "message": {
+    "receiver": {
+      "id": "1c38452a-49c1-44f2-9dbd-7ebf3bee5c29",
+      "phone": "",
+      "email": "",
+      "client_id": "461663880"
+    },
+    "sender": {
+      "id": "a24b7ff5-bdf6-47ed-b55a-0b884f011589"
+    },
+    "conversation": {
+      "id": "a49f1d0e-c2b3-4820-b1ef-3b3267976fdc",
+      "client_id": "461663880"
+    },
+    "timestamp": 1674810656,
+    "msec_timestamp": 1674810656183,
+    "message": {
+      "id": "42bd7924-edab-4620-9fc2-d5b3ee0b154d",
+      "type": "text",
+      "text": "Да ладно, привет, мы же не из англии",
+      "markup": None,
+      "tag": "",
+      "media": "",
+      "thumbnail": "",
+      "file_name": "",
+      "file_size": 0
+    }
+  }
+}
